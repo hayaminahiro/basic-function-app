@@ -1,24 +1,10 @@
-# README
+# ログイン、ログアウトなど、基本的機能のみ搭載
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 開発環境
 
-Things you may want to cover:
+* AWS Cloud9
+* Ruby
+* Rails
+* Git
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
